@@ -1,0 +1,9 @@
+konlpy==0.6.0
+datasets==2.4.0
+transformers==4.21.1
+wandb==0.13.1
+evaluate==.0.2.2
+rouge_score==0.1.2
+emoji==1.7.0
+soynlp
+nsml @ git+https://github.com/n-CLAIR/nsml-local@8927e5c6566bcba75a3792f5ab4606bc003ffe64
