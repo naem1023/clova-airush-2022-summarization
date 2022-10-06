@@ -7,6 +7,6 @@ The repository is public code about [Naver Clova AIRUS 2022](https://campaign.na
 - Validation and deploying Seq2Seq Summarization model to Huggingface with model card.
 
 ## Others
-Soem informations like competition dataset and nsml is masking. The repository is released under the inspection of the competition PM. If there's some issue on code, please concat to me.
+Some informations like competition dataset and nsml are masked. The repository is released under the inspection of the competition PM. If there's some issue on code, please concat to me.
 
 Contributor: [Sungho Park](https://github.com/naem1023)
