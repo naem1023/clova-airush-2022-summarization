@@ -2,6 +2,8 @@
 
 The repository is public code about [Naver Clova AIRUS 2022](https://campaign.naver.com/clova_airush/) long document summarization, 3rd prize. 
 
+![](assets/poster.png)
+
 ## Features
 - T5 Summarization piepeline using prefix.
 - Validation and deploying Seq2Seq Summarization model to Huggingface with model card.
